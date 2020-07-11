@@ -1,3 +1,4 @@
+#define N 105
 typedef pair<int,pair<int,int>> pi;
 
 int *mergeKArrays(int arr[][N], int k)
